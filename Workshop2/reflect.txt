@@ -1,0 +1,20 @@
+/* Citation and Sources...
+-----------------------------------------------------------
+Workshop 2
+Module: dma.cpp / dma.h
+Filename: dma.cpp / dma.h
+-----------------------------------------------------------
+Author: Aryan Chowdhury
+Student number: 138197181
+Email: ichowdhury6@myseneca.ca
+Subject: OOP244-NBB
+-----------------------------------------------------------
+Revision History
+-----------------------------------------------------------
+Version Date      Reason
+V1.0 2025/09/20
+-----------------------------------------------------------
+Done all the work by myself with help from AI modules such as Claude & ChatGPT, guiding me along the way whenever I got stuck. Helped me understand core concepts so I could finish this workshop. 
+-----------------------------------------------------------  
+
+This workshop helped introduce me to many unfamiliar concepts, that when put together cohesively allowed me to manage dynamic memory using constructors & deconstructors. I was able to learn how to allocate memory using new & delete. This workshop also allowed me to see how memory handling, or lack thereof could lead to memory leaks. I ran into a lot of difficulties during my time with this workshop, honestly I didn't even know where to start as a lot of this was very confusing to wrap my head around. With the help of ChatGPT & Claude, to break down every concept into smaller bite-size pieces it helped me understand the core concepts such as properly implementing the copy assignment operator without causing memory leaks. Also during my time implementing the freemem function, it taught me about delete & how to use it properly to free up memory. It also taught me about using Valgrind to check for memory leaks. I believe that a lot of these concepts could've been explained better as a lot of this becomes very difficult to finish without external help, given the knowledge we have currently from IPC & the first 3 weeks of OOP. Aside from that, the workshop was helpful in getting me to research & learn about these concepts. 

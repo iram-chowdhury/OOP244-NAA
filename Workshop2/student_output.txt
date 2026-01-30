@@ -1,0 +1,24 @@
+Script started on Thu 29 Jan 2026 07:57:03 PM EST
+==195376== Memcheck, a memory error detector
+==195376== Copyright (C) 2002-2022, and GNU GPL'd, by Julian Seward et al.
+==195376== Using Valgrind-3.21.0 and LibVEX; rerun with -h for copyright info
+==195376== Command: ws.exe
+==195376== 
+--- Sensor Analysis Report ---
+Title: Sensor Readings - Hourly Motor Temperatures (C)
+Number of Readings: 4989
+Average Temperature: 100.293 C
+Spikes Detected: 2
+Maximum Drop Between Readings: 137 C
+Readings in Optimal Range (90-110C): 1320 (26.4582%)
+--------------------------------
+==195376== 
+==195376== HEAP SUMMARY:
+==195376==     in use at exit: 0 bytes in 0 blocks
+==195376==   total heap usage: 104 allocs, 104 frees, 1,083,300 bytes allocated
+==195376== 
+==195376== All heap blocks were freed -- no leaks are possible
+==195376== 
+==195376== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+
+Script done on Thu 29 Jan 2026 07:57:04 PM EST
