@@ -7,12 +7,12 @@ Filename: dma.cpp
 Author: Aryan Chowdhury
 Student number: 138197181
 Email: ichowdhury6@myseneca.ca
-Subject: OOP244-NBB
+Subject: OOP244-NAA
 -----------------------------------------------------------
 Revision History
 -----------------------------------------------------------
 Version Date      Reason
-V1.0 2025/09/20
+V1.0 2026/01/29
 -----------------------------------------------------------
 Done all the work by myself with help from AI modules such as Claude & ChatGPT, guiding me along the way whenever I got stuck. Helped me understand core concepts so I could finish this workshop. 
 -----------------------------------------------------------  
@@ -90,3 +90,4 @@ void freemem(Samples*& target) {
         target = nullptr;
     }
 }
+
