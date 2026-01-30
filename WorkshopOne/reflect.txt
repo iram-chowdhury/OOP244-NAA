@@ -1,0 +1,9 @@
+Workshop 1
+Reflection
+Author: Aryan Chowdhury
+Student number: 138197181
+Email: ichowdhury6@myseneca.ca
+Subject: OOP244-NAA
+
+
+This workshop has helped me understand how modules work in C++, how seperating code into a header file for prototypes & another .cpp file for the definitions. Also helped me learn the concept of namespaces which can be a beneficial way to re-use the same variable name. Seeing the cstr module was cool it showed me the code behind how certain functions in <cstring> work, but the io module came off a bit tricky & I did need AI help to help me solve how to convert the phone number. Overall, the workshop was challenging but useful & helpful in helping me learn. 
