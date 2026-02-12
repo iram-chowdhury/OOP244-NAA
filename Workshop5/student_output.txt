@@ -1,0 +1,142 @@
+Script started on Thu 12 Feb 2026 10:18:36 AM EST
+==70917== Memcheck, a memory error detector
+==70917== Copyright (C) 2002-2022, and GNU GPL'd, by Julian Seward et al.
+==70917== Using Valgrind-3.21.0 and LibVEX; rerun with -h for copyright info
+==70917== Command: ws.exe
+==70917== 
+*** - *** - **
+==============
+__3 - 0.1 - F  
+==============
+__7 - 0.3 - F  
+==============
+_11 - 0.4 - F  
+==============
+_15 - 0.6 - F  
+==============
+_19 - 0.8 - F  
+==============
+_23 - 0.9 - F  
+==============
+_27 - 1.1 - F  
+==============
+_31 - 1.2 - F  
+==============
+_35 - 1.4 - F  
+==============
+_39 - 1.6 - F  
+==============
+_43 - 1.7 - F  
+==============
+_47 - 1.9 - F  
+==============
+_51 - 2.0 - D  
+==============
+_55 - 2.2 - D+ 
+==============
+_59 - 2.4 - D+ 
+==============
+_63 - 2.5 - C  
+==============
+_67 - 2.7 - C+ 
+==============
+_71 - 2.8 - B  
+==============
+_75 - 3.0 - B+ 
+==============
+_79 - 3.2 - B+ 
+==============
+_83 - 3.3 - A  
+==============
+_87 - 3.5 - A  
+==============
+_91 - 3.6 - A+ 
+==============
+_95 - 3.8 - A+ 
+==============
+_99 - 4.0 - A+ 
+==============
+*** - *** - **
+==============
+_47
+_47: F  
+_47: 1.9
+==============
+_62
+_62: C  
+_62: 2.5
+==============
+_77
+_77: B+ 
+_77: 3.1
+==============
+_92
+_92: A+ 
+_92: 3.7
+==============
+_47: F  , 1.9
+===============
+_62: C  , 2.5
+===============
+_77: B+ , 3.1
+===============
+_92: A+ , 3.7
+===============
+Please enter the mark:
+> abc
+Invalid integer, try again.
+> -1
+Invalid mark. Enter a value between 0 and 100.
+> 101
+Invalid mark. Enter a value between 0 and 100.
+> 67.8
+Invalid trailing characters. Please enter only an integer.
+> 67abc
+Invalid trailing characters. Please enter only an integer.
+> 67
+You entered: _67
+A+ 
+D  
+0.5
+_86
+_62
+0.6
+_39
+F  
+_40
+1.3
+3.6
+F  
+3.5
+A+ 
+_97
+0.2
+1.9
+_47
+__7
+C+ 
+A  
+D+ 
+0.7
+0.9
+_99
+_35
+_35
+2.8
+F  
+double: 97.7
+   int: 98
+double: 69.2
+   int: 68
+double: 3.3
+   int: 3
+==70917== 
+==70917== HEAP SUMMARY:
+==70917==     in use at exit: 0 bytes in 0 blocks
+==70917==   total heap usage: 3 allocs, 3 frees, 81,464 bytes allocated
+==70917== 
+==70917== All heap blocks were freed -- no leaks are possible
+==70917== 
+==70917== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+
+Script done on Thu 12 Feb 2026 10:19:19 AM EST
