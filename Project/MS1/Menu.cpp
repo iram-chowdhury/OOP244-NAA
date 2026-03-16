@@ -18,6 +18,8 @@ Most of the work was done by myself while also using AI tools such as ChatGPT & 
 #include <cctype>
 #include <iomanip>
 
+using namespace std;
+
 namespace seneca {
 
 	MenuItem::MenuItem() {
